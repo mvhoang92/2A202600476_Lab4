@@ -1,0 +1,10 @@
+# Bỏ qua môi trường ảo
+venv/
+env/
+
+# Bỏ qua file chứa API Key (Cực kỳ quan trọng)
+.env
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.py[cod]
